@@ -1,0 +1,7 @@
+\src\flaskr\static\js\wangEditor.min.js
+# 用来修改单图片上传大小
+uploadImgMaxSize
+
+conf/app.conf
+# 允许便签最大大小
+MEMO_MAX_SIZE = 5
